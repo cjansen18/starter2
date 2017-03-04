@@ -1,0 +1,2 @@
+- To get the frontend plugin to work, I had to rename my nodejs install dir from nodejs to node.
+-- Change installation dir to: 	<installDirectory>C:\Program Files\</installDirectory>
